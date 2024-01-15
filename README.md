@@ -1,6 +1,7 @@
 # WHAT I DID
 - Level 1, 2
 - Added pagination
+- I had to change the port numbers to 5001 but upon committing I changed it back to 5000. If the code does not run, try changing the port number to 5001.
 
 # Introduction 
 Hello, thank you for showing your interest in Bits of Good! This semester, we are focusing our recruitment on the practical skills of developers through this assessment! We hope you enjoy the task and if you have any questions or if any part is ambiguous, please send us an email at gt.engineering@hack4impact.org or file an issue on GitHub.
